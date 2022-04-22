@@ -1,0 +1,38 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    padding: 0 16px;
+}
+
+.footer-content {
+    margin-bottom: 52px;
+    margin-top: 20px;
+}
+
+.footer-link {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footer-link > p {
+    font-size: 12px;
+    margin: 3px 8px;
+    color: #8E8E8E;
+}
+
+.space-bottom > p {
+    margin-bottom: 12px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.footer > p {
+    font-size: 12px;
+    margin: 12px 0;
+    color: #8E8E8E;
+}
